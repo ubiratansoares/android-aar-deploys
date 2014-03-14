@@ -1,8 +1,9 @@
 Android AAR Deploys
 ===================
 
-Central repo for AAR deploys (e.g, that ones unavaliable on Maven Central) used on my Android projects. 
+Some AAR deploys (e.g, that ones unavaliable on Maven Central) for my personal Android projects. 
 
-Snapshots :
+Current Deploys :
 
 * android-cropimage by Lorenzo Villani (<https://github.com/lvillani/android-cropimage>)
+* Android-ViewpagerIndicator by Jake Wharton (<https://github.com/JakeWharton/Android-ViewPagerIndicator>)
